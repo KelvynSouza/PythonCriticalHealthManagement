@@ -1,0 +1,8 @@
+numpy==1.18.0
+pandas
+sklearn
+tensorflow==2.3.1 
+keras
+gunicorn
+flask
+flask-restx
